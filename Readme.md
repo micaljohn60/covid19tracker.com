@@ -1,6 +1,7 @@
 <p align="center">
-<a href="https://raw.githubusercontent.com/micaljohn60/covid19tracker.com/master/images/ic_launcher.png" width="auto"></a>
-Covid 19 Tracker V-3.0
+<img src="https://raw.githubusercontent.com/micaljohn60/covid19tracker.com/master/images/ic_launcher.png" width="auto">
+
+## Covid 19 Tracker V-3.0
 </p>
 
 ## Release Details
